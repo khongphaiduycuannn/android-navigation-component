@@ -10,7 +10,7 @@ Navigation Component là một thư viện giúp người dùng quản lí các 
     </tr>
         <tr>
 	        <td>Destination (Đích đến)</td>
-	        <td>Là một thành phần giao diện hiển (Fragment, Activity, Dialog, ...)</td>
+	        <td>Là một thành phần giao diện như `Fragment`, `Activity`, `Dialog`, ...</td>
 	    </tr>
     <tr>
         <td>Host</td>
